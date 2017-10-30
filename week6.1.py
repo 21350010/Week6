@@ -8,3 +8,4 @@ scoreB=int(input("scoreB :"))
 
 if scoreA == scoreB :
     print("Tie")
+# scoreA=scoreB Changed to scoreA==scoreB, instead of = , == 
